@@ -1,0 +1,10 @@
+<div ng-controller="EventsController">
+    <div class="g-event" ng-repeat="event in ctrl.events">
+        <div class="g-event-content">
+            <a href="{{event.url}}" class="display-4">{{event.name}}</a>
+            <p class="g-event-date">Date: {{event.date}}</p>
+            <p class="g-event-location">Location: {{event.location}}</p>
+            <p class="text-muted">{{event.description}}</p>
+        </div>
+    </div>
+</div>

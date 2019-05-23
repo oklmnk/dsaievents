@@ -1,0 +1,21 @@
+.g-event {
+    margin-bottom: 2rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid #e9ecef;
+}
+
+.g-event .g-event-content {
+    padding: 1.25rem;
+    border-radius: .25rem;
+    background-color: #f7f8f9;
+}
+
+.g-event .g-event-date {
+    padding: 0;
+    margin: 0;
+    font-weight: bold;
+}
+
+.g-event .g-event-location {
+    color: #bebebe;
+}

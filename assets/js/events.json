@@ -1,17 +1,21 @@
 [
     {
-        "eventId":1,
-        "name":"International Conference on Machine Learning (ICML)",
-        "date":"June 9th - June 15th, 2019",
-        "location":"Long Beach, California",
-        "description":"ICML is one of the leading international machine learning conferences in the world.",
-        "url":"https://icml.cc/"
-    },
-    {
-        "eventId":2,
-        "name":"Artificial Intelligence Conference",
-        "date":"April 15th - April 16th, 2019",
-        "location":"New York City",
-        "description": "Learn the latest breakthroughs in AI and machine learning."
+        'event_id': '1',
+        'source_platform_id': '261218488',
+        'source_platform': 'Meetup',
+        'event_city': 'Sydney',
+        'event_date': '2019-06-14',
+        'event_time': '07:30',
+        'event_name': 'GA & Data Science Breakfast Meetup presents: The Rise of Automation',
+        'event_organiser': 'Data Science Breakfast Meetup',
+        'event_location_name': 'GA Sydney (Main Campus)',
+        'event_location_address': 'The Podium Building, 1 Market St Sydney AU',
+        'event_lat': '-33.869998931884766',
+        'event_lon': '151.20460510253906',
+        'registration_link': 'https://www.meetup.com/The-Sydney-Data-Science-Breakfast-Meetup-Group/events/261218488/',
+        'description': '<p>Note: this is a partnered event with General Assembly. Please make sure to register using the General Assembly event page, linked here: <a href="https://ga.co/2PPoZWd" class="linkified">https://ga.co/2PPoZWd</a></p> <p>****<br/>Abstract:<br/>There has been a lot of attention in the media surrounding the rise of automation. As advanced technologies such as robotic process automation, machine learning, and artificial intelligence have matured, companies have found practical applications to these new technologies.</p> <p>As part of this evolution, Intelligent Automation has become a topic of interest for business leaders across industries looking to combine cognitive capabilities with robotic process technologies to create a "living" system that can go beyond mundane and repeatable tasks. This is extremely advantageous to any organization that can implement these systems seamlessly but there is still a delta between the ideation of AI integration. and the ability to put these plans into effect. This delta can instill fear and anxiety around using AI as well as the added question of the ethical implications of AI such as Facial Recognition and targeted advertising.</p> <p>Join General Assembly and the Data Science Breakfast Meetup as we present a panel of experts at the forefront of AI incorporation for an engaging conversation that will touch on.</p> <p>*****<br/>Agenda:<br/>07:30 - arrival and networking<br/>07:50 - panel kick off<br/>08:30 - panel Q&amp;A<br/>09:00 - more networking (and anyone who needs to head off can leave)<br/>09:30 - close</p> <p>*****<br/>Speaker BIO\'s:</p> <p>Anthony Tockar (Moderator):<br/>Anthony Tockar is director and cofounder at Verge Labs, a new type of AI company focused on the applied side of machine learning. A jack-of-all-trades, he has worked on problems across insurance, technology, telecommunications, loyalty, sports betting and even neuroscience. He qualified as an actuary, then moved into data science, completing an MS in Analytics at the prestigious Northwestern University.</p> <p>After hitting the headlines with his posts on data privacy at Neustar, he returned to Sydney to practice as a data scientist and cofounded the Minerva Collective, a not-for-profit focused on using data for social good, as well as multiple meetup groups. His key missions are to extend the reach and impact of data science to help people, and to assist Australian businesses to become more data driven.</p> <p>Sam Zheng (Panelist):<br/>Sam is Co-founder/CEO of Curious Thing - a voice-based AI interviewer for talent acquisition startup. Sam is a tech entrepreneur, self-taught engineer, and qualified actuary. Before Curious Thing, Sam was Co-founder/CTO of Hyper Anna, an AI for business analytics startup.</p> <p>Dima Galat (Panelist):<br/>Dima learned to program in Assembly on an i486, back when disk sizes were measured in megabytes. He always saw programming as a tool for facilitating communication between disparate data sources and end users.</p> <p>After his first encounter with data mining a decade ago, he became obsessed with applied machine learning, which supercharges this communication process. He has a background in computer vision productisation, data engineering, and a variety of analytics projects for clients ranging from financial institutions to United Nations.</p> <p>Usman Shahbaz (panelist):<br/>Usman is an experienced leader with more than 14 years of rich experience in applying product, network, risk-assurance and consumer analytics to drive actionable business outcomes. His core specialties include Advanced Analytics, Machine &amp; Deep Learning, Statistical Modelling and Optimisation. Usman is currently enrolled for a PhD in Machine Learning. He also holds an MBA and a Bachelor’s degree in Electrical Engineering.</p> <p>Passiona Cottee (panelist):<br/>Data Scientist, Commonwealth Bank, Co-lecturer at UTS</p> ',
+        'event_or_group_photo': 'https://secure.meetupstatic.com/photos/event/c/6/6/5/highres_481070789.jpeg',
+        'event_format': 'panel',
+        'event_category': 'automation'       
     }
 ]
